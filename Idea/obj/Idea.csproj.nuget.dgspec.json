@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/Idea.csproj": {}
+    "/Users/boyscout/Desktop/render-docker/Idea/Idea.csproj": {}
   },
   "projects": {
-    "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/Idea.csproj": {
+    "/Users/boyscout/Desktop/render-docker/Idea/Idea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/Idea.csproj",
+        "projectUniqueName": "/Users/boyscout/Desktop/render-docker/Idea/Idea.csproj",
         "projectName": "Idea",
-        "projectPath": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/Idea.csproj",
+        "projectPath": "/Users/boyscout/Desktop/render-docker/Idea/Idea.csproj",
         "packagesPath": "/Users/boyscout/.nuget/packages/",
-        "outputPath": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/obj/",
+        "outputPath": "/Users/boyscout/Desktop/render-docker/Idea/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/boyscout/.nuget/NuGet/NuGet.Config"

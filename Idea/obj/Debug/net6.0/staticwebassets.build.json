@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ml6nRoDHp2Pk+HF6fGqKNrH86mN1ugqyC7Jwc+FSj1A=",
+  "Hash": "yHxRYfO3m9WRzScUdejXOb/NJmWv+NhL+HBs0DXFDGI=",
   "Source": "Idea",
   "BasePath": "_content/Idea",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Idea/wwwroot",
       "Source": "Idea",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "/Users/boyscout/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.9/staticwebassets/V5/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/obj/Debug/net6.0/scopedcss/bundle/Idea.styles.css",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/obj/Debug/net6.0/scopedcss/bundle/Idea.styles.css",
       "SourceId": "Idea",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/obj/Debug/net6.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/obj/Debug/net6.0/scopedcss/bundle/",
       "BasePath": "_content/Idea",
       "RelativePath": "Idea.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/obj/Debug/net6.0/scopedcss/bundle/Idea.styles.css"
+      "OriginalItemSpec": "/Users/boyscout/Desktop/render-docker/Idea/obj/Debug/net6.0/scopedcss/bundle/Idea.styles.css"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/obj/Debug/net6.0/scopedcss/projectbundle/Idea.bundle.scp.css",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/obj/Debug/net6.0/scopedcss/projectbundle/Idea.bundle.scp.css",
       "SourceId": "Idea",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/obj/Debug/net6.0/scopedcss/projectbundle/",
       "BasePath": "_content/Idea",
       "RelativePath": "Idea.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/obj/Debug/net6.0/scopedcss/projectbundle/Idea.bundle.scp.css"
+      "OriginalItemSpec": "/Users/boyscout/Desktop/render-docker/Idea/obj/Debug/net6.0/scopedcss/projectbundle/Idea.bundle.scp.css"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/css/site.css",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/css/site.css",
       "SourceId": "Idea",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/favicon.ico",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/favicon.ico",
       "SourceId": "Idea",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/js/site.js",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/js/site.js",
       "SourceId": "Idea",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "Idea",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "Idea",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "Idea",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "Idea",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "Idea",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "Idea",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "Idea",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "Idea",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "Idea",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "Idea",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "Idea",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "Idea",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boyscout/Desktop/COMP1640.2023.01/Idea/wwwroot/",
+      "ContentRoot": "/Users/boyscout/Desktop/render-docker/Idea/wwwroot/",
       "BasePath": "_content/Idea",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
